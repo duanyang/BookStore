@@ -1,0 +1,42 @@
+/* CSS Document */
+
+/* 主体背景(带底图的纯色背景) */
+body {background:#f6f6ea; }
+/* 页脚背景修改 */
+.foot { margin:0 auto; width:960px; line-height:160%; clear:both; background-color:#ffffff; 
+}
+/* 导语 */
+.leadtext { font-size:14px; background:url(../xuyuanImg/bg_top.jpg) repeat-x; height:79;margin:0;padding:0}
+#header{ width:1360px;background:url(../xuyuanImg/bg_top.jpg) repeat-x left top; height:79px;padding:0 ; margin-right:0px;}
+/* 产品推荐 */
+.powerfulwish { background:url(http://img1.cache.netease.com/digi/tingting/090124/wish.jpg); }
+.bgNav { background:url(http://img1.cache.netease.com/digi/tingting/090124/bgNav.jpg) no-repeat right; }
+.sTitle, .sTitle a, .sTitle:visited { color:#ffffff; font-size:14px; padding-left:6px; font-weight:bold; }
+.sTitle a:hover { color:#ffff00; font-size:14px; font-weight:bold; }
+.price, .price a, .price:visited { color:#c0a264; padding-left:5px; }
+.price a:hover { color:#ffffff; font-size:12px; font-weight:bold; }
+.money, .money a, .money:visited { color:#ffffff; font-size:14px; font-weight:bold; }
+.textbg { background:url(http://img1.cache.netease.com/digi/tingting/090124/textbg.gif) no-repeat left; }
+.textpro { color:#2e2e2e; line-height:28px; padding-top:3px; text-indent:2em; }
+.textpro a, .textpro:visited { color:#a40101; padding-left:5px; }
+/* 许愿墙 */
+.wall { width:1360px; height:457px; margin-left:0px; margin-right:0px; background:url(../xuyuanImg/bg.jpg)  repeat  left; position:relative; }
+.wall .paper { width:144px; height:153px; padding:10px 10px 35px;overflow:hidden; }
+.wall .paper .close { display:block; width:10px; height:10px; background:url(../xuyuanImg/close_1.gif) no-repeat center top; text-indent:-9999px; float:right; overflow:hidden; }
+.wall .paper .close:hover { background:url(../xuyuanImg/close_1.gif) no-repeat center -10px; }
+.wall .paper h2 { line-height:25px; color:#6e6e6e; clear:both; }
+.wall .paper h3 { line-height:21px; margin-top:5px; font-size:14px; color:#e8641b; }
+.wall .comment-sum { display:block; color:#fff; position:absolute; top:38px; right:75px; }
+.wall .comment-sum .sum { font-weight:bold; font-size:16px; color:#FF0; }
+/* form */
+label { display:block; margin-top:15px; font-size:14px; }
+.submit { width:124px; border:none; height:34px; margin-top:15px; line-height:34px; overflow:hidden; color:#666; font-size:14px; cursor:pointer; vertical-align:text-bottom; }
+.submit:hover {  color:#fff; }
+.txt { color:#6e6e6e; font-size:14px; border:1px solid #ccc; }
+form a { margin-left:15px; color:#6e6e6e; }
+form a:hover { color:#a40101; }
+form a .sum { font-size: 16px; font-weight: bold; color: #a40101; }
+/* forum */
+.forum { margin:0 auto; font-size:8pt;background:url(../xuyuanImg/bg_bottom.jpg) repeat-x left top;text-align:center;padding-top:81px; position:relative; }
+.forum a { width:127px; height:36px; text-indent:-9999px; position:absolute; top:60px; left:395px; }
+.forum a:hover {  }

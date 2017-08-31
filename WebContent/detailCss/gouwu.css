@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.gou{ width:970px; margin:0 auto;height:auto; border:2px solid #F96}
+  .gou1{ width:1000px;height:70px;}
+  .gou_biaoti{ width:968px;height:28px; background-color:#95c4f4; line-height:28px}
+	    .gou_biaoti span{ margin-left:105px; font-weight:bold}
+  .gou_con{  width:966px;height:120px; border:1px solid #F00; line-height:120px}
+.fav{ width:970px; margin:0 auto;height:auto; }
+  .fav1{ width:940px;height:90px;margin-left:0px;margin-bottom:30px;border-bottom:3px solid #ddd;}
+  .fav1 .type{font-size:21px;font-weight:bold;margin-bottom:10px}
+  .fav1 .type1{font-size:15px;font-weight:bold;margin-bottom:10px}
+  .fav_biaoti{ width:940px;height:28px; background-color:#95c4f4; line-height:28px}
+	    .fav_biaoti span{ margin-left:105px; font-weight:bold}
+  .fav_con{  width:966px;height:120px; border:1px solid #F00; line-height:120px}

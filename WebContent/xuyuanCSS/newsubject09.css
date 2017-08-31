@@ -1,0 +1,120 @@
+/* CSS Document */
+td{text-align:left; line-height:160%;}
+
+.imgB1{border:1px solid #ccc;}
+.imgB2{border:1px solid #000;}
+.imgB3{border:1px solid #555555;}
+/* 模块背景 */
+.aWhiteBg{background-color:#ffffff;}
+.aBlackBg{background-color:#1E1E1E;}
+/* 栏目3像素条,特殊模板使用 */
+.borBlue3{border-top:3px solid #043A5E;}
+.borOrange3{border-top:3px solid #F08300;}
+.borBlack3{border-top:3px solid #707070;}
+/* 专题模板字体颜色 */
+.gcWhite,.gcWhite a,.gcWhite:visited{color:#cecece;}
+.gcBlue,.gcBlue a,.gcBlue:visited{color:#1D50A3;}
+.gcGray,.gcGray a,.gcGray:visited{color:#5f5f5f;}
+.gcOrange,.gcOrange a,.gcOrange:visited{color:#F08300;}
+.gcPurple,.gcPurple a,.gcPurple:visited{color:#4A498F;}
+.gcRed,.gcRed a,.gcRed:visited{color:#BA2636;}
+.gcGreen,.gcGreen a,.gcGreen:visited{color:#467902;}
+.gcWhite a:hover,a.gcWhite:hover,.gcBlue a:hover,a.gcBlue:hover,.gcGray a:hover,a.gcGray:hover,.gcOrange a:hover,a.gcOrange:hover,.gcPurple a:hover,a.gcPurple:hover,.gcRed a:hover,a.gcRed:hover,.gcGreen a:hover,a.gcGreen:hover{color:#bc2931;}
+
+/* 模块 */
+.area{width:960px; background:url(http://img1.cache.netease.com/cnews/template08/images/areaBg.gif) repeat-y; margin:0 auto;}
+.colL{width:705px; float:left;}
+.colR{width:240px; float:right;}
+.ztLine1{width:960px; height:1px; background:url(http://img1.cache.netease.com/cnews/template08/images/areaLine.gif) no-repeat; margin:0 auto; display:block; overflow:hidden; clear:both;}
+
+/* tpNav */
+.tpNav{padding:5px 0;}
+.tpNav a{float:left; text-align:center; padding:0 20px;}
+
+.tpNavRed{background:#fff url(http://img1.cache.netease.com/cnews/template08/images/navBg_red1.gif) no-repeat 0 5px;}
+.tpNavRed a{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_red1.gif) no-repeat 0 0;}
+.tpNavRed a:hover{background-color:#BA2636; color:#fff;}
+.tpNavB1{background:#fff url(http://img1.cache.netease.com/cnews/template08/images/navBg_b11.gif) no-repeat 0 5px;}
+.tpNavB1 a{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_b11.gif) no-repeat 0 0;}
+.tpNavB1 a:hover{background-color:#000; color:#fff;}
+.tpNavB2{background:#fff url(http://img1.cache.netease.com/cnews/template08/images/navBg_b21.gif) no-repeat 0 5px;}
+.tpNavB2 a{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_b21.gif) no-repeat 0 0;}
+.tpNavB2 a:hover{background-color:#2B2B2B; color:#fff;}
+.tpNavG1{background:#fff url(http://img1.cache.netease.com/cnews/template08/images/navBg_g11.gif) no-repeat 0 5px;}
+.tpNavG1 a{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_g11.gif) no-repeat 0 0;}
+.tpNavG1 a:hover{background-color:#727071; color:#fff;}
+.tpNavG2{background:#fff url(http://img1.cache.netease.com/cnews/template08/images/navBg_g21.gif) no-repeat 0 5px;}
+.tpNavG2 a{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_g21.gif) no-repeat 0 0;}
+.tpNavG2 a:hover{background-color:#AFAFB1; color:#fff;}
+.tpNavBlue{background:#fff url(http://img1.cache.netease.com/cnews/template08/images/navBg_blue1.gif) no-repeat 0 5px;}
+.tpNavBlue a{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_blue1.gif) no-repeat 0 0;}
+.tpNavBlue a:hover{background-color:#1D50A3; color:#fff;}
+.tpNavGreen{background:#fff url(http://img1.cache.netease.com/cnews/template08/images/navBg_ge11.gif) no-repeat 0 5px;}
+.tpNavGreen a{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_ge11.gif) no-repeat 0 0;}
+.tpNavGreen a:hover{background-color:#467902; color:#fff;}
+.tpNavOrange{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_orange1.gif) no-repeat 0 5px;}
+.tpNavOrange a{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_orange1.gif) no-repeat 0 0;}
+.tpNavOrange a:hover{background-color:#F08300; color:#fff;}
+.tpNavPurple{background:#fff url(http://img1.cache.netease.com/cnews/template08/images/navBg_purple1.gif) no-repeat 0 5px;}
+.tpNavPurple a{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_purple1.gif) no-repeat 0 0;}
+.tpNavPurple a:hover{background-color:#4A498F; color:#fff;}
+.tpNavLavender{background:#fff url(http://img1.cache.netease.com/cnews/template08/images/navBg_lavender1.gif) no-repeat 0 5px;}
+.tpNavLavender a{background:url(http://img1.cache.netease.com/cnews/template08/images/navBg_lavender1.gif) no-repeat 0 0;}
+.tpNavLavender a:hover{background-color:#706CA9; color:#fff;}
+
+/* newNav 1010 */
+.dirNav1010{margin:0 auto; width:960px; clear:both; height:35px; background:url(http://img1.cache.netease.com/cnews/img07/navbg1010.gif) 0 -21px repeat-x; overflow:hidden;}
+.dirNav1010 .text{float:left; line-height:26px; padding:5px 0 0; color:#666;}
+.dirNav1010 .text img{float:left; margin:0 10px 0 5px;}
+.dirNav1010 .search{float:right; padding:8px 0 0;}
+.dirNav1010 .search .input1{ width:125px; font-size:12px; height:18px; border:1px solid #cccccc; color:#666; margin:0; padding:0;}
+.dirNav1010 .search .input2{width:51px; height:20px; border:0; background:url(http://img1.cache.netease.com/cnews/img07/navbg1010.gif) no-repeat; font-size:12px; cursor:pointer; margin:0 5px 0 0; padding:0;}
+.dirNav1010 a{color:#000000;}
+.dirNav1010 a:visited{color:#000000;}
+.dirNav1010 a:hover{color:#bc2931;}
+
+/* nesting */
+.nesting{ margin:0 auto; width:748px; border:1px solid #ccc;background:#fff; padding:10px 0; overflow:auto;} 
+.nesting_960{ margin:0 auto; width:958px; border:1px solid #ccc; background:#fff; padding:10px 0; overflow:auto;} 
+
+/* comment */
+.endDeliver0709{ margin:0 auto; width:94%; clear:both;}
+.endDeliver0709 .title{text-align:left; clear:both; height:35px; background:url(http://img1.cache.netease.com/cnews/img07/end_bg2.gif) 0 10px repeat-x;}
+.endDeliver0709 .title .tip{float:left; padding:0 3px 0 0; background:#fff;}
+.endDeliver0709 .title .text{float:right; background:#fff; padding:5px 4px 0; font-size:14px;}
+.endDeliver0709 .title .textBu{float:right; background:#fff; margin:2px 0 0;}
+.endDeliver0709 .title .textBu a{width:68px; text-align:center; color:#bc2931; height:19px;background:url(http://img1.cache.netease.com/cnews/img07/end_n_input_bg2.gif) no-repeat; padding:3px 0 0; font-size:12px; display:block;}
+.endDeliver0709 .title .textBu a:visited{ width:68px; color:#bc2931; height:19px;background:url(http://img1.cache.netease.com/cnews/img07/end_n_input_bg2.gif) no-repeat; padding:3px 0 0; font-size:12px; display:block;}
+.endDeliver0709 .title .textBu a:hover{width:68px; color:#bc2931; height:19px;background:url(http://img1.cache.netease.com/cnews/img07/end_n_input_bg2_.gif) no-repeat; text-decoration:none; padding:3px 0 0; font-size:12px;}
+.endDeliver0709 .title a{color:#000;}
+.endDeliver0709 .title a:visited{color:#000;}
+.endDeliver0709 .title a:hover{color:#bc2931;}
+.endDeliver0709 .textBox{clear:both; padding:2px 0 0;}
+.endDeliver0709 .textBox textarea{width:99%; height:130px;  border:1px solid #666; background:url(http://img1.cache.netease.com/cnews/img07/end_n_bg9.gif) center 50px no-repeat; font-size:12px;}
+.endDeliver0709 .loginTip{clear:both; }
+.endDeliver0709 .loginTip .login{float:left;padding:5px 0 0;}
+.endDeliver0709 .loginTip .login .input1{width:50px; height:15px; border:1px solid #ccc; font-size:12px;}
+.endDeliver0709 .loginTip .login .input2{border:0; width:53px; cursor:pointer;  height:19px;background:url(http://img1.cache.netease.com/cnews/img07/end_n_input_bg1.gif) no-repeat; padding:3px 0 0; font-size:12px;}
+.endDeliver0709 .loginTip .login .inputOver2{border:0; width:53px; cursor:pointer; height:19px;background:url(http://img1.cache.netease.com/cnews/img07/end_n_input_bg1_.gif) no-repeat; padding:3px 0 0; font-size:12px;}
+.endDeliver0709 .loginTip .send{float:right;padding:5px 0 0 10px;}
+.endDeliver0709 .loginTip .send .input{border:0; width:68px; cursor:pointer;height:19px;background:url(http://img1.cache.netease.com/cnews/img07/end_n_input_bg2.gif) no-repeat; padding:3px 0 0; font-size:12px;}
+.endDeliver0709 .loginTip .send .inputOver{border:0; width:68px; cursor:pointer; height:19px;background:url(http://img1.cache.netease.com/cnews/img07/end_n_input_bg2_.gif) no-repeat; padding:3px 0 0; font-size:12px;}
+.endDeliver0709 .loginTip a{color:#1f3a87;}
+.endDeliver0709 .loginTip a:visited{color:#1f3a87;}
+.endDeliver0709 .loginTip a:hover{color:#bc2931;}
+
+/* 焦点图 */
+.focusPic{position:relative;}
+.focusPic .none{display:none;}
+.focusPic .on{display:block;}
+.focusPic .pic{clear:both; text-align:center;}
+.focusPic .pic h5{float:left; font-weight:bold; text-align:left; padding:10px 0 10px 10px;}
+.focusPic .focusNum{position:absolute; right:0; margin:8px 10px 0 0;}
+.focusPic .focusNum li{float:left; width:21px; height:20px; text-align:center; color:#333; font-weight:bold; font-family:Verdana, Arial, Helvetica, sans-serif; background:url(http://img1.cache.netease.com/cnews/template08/images/focusBg1.gif) no-repeat; margin:0 3px; padding-top:3px; cursor:pointer;}
+.focusPic .focusNum .on{float:left; width:21px; height:20px; text-align:center; font-family:Verdana, Arial, Helvetica, sans-serif; background:url(http://img1.cache.netease.com/cnews/template08/images/focusBg2.gif) no-repeat;}
+
+/* tabList */
+.tabList { border: solid #ccc; border-width: 1px 0px 1px 1px; display: inline-block; *display: inline; zoom: 1; position: relative; bottom: -1px; }
+.tabList li { float: left; width: 60px; height: 26px; text-align: center; line-height: 26px; vertical-align: middle; border-right: 1px solid #ccc; background: url(icon_9.jpg) repeat-x; }
+.tabList li.on { position: relative; bottom: -1px; background: #fff; background-image: none;}
+.tabList li a { color: #666; }
